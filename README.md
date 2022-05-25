@@ -5,6 +5,6 @@
 [![Numpy](https://img.shields.io/badge/numpy-1.22-red.svg)](https://numpy.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit_learn-1.1-red.svg)](https://scikit-learn.org/stable/)
 
-## Первая попытка разобрать в создании рекомендательных систем, система создана на основе гайда с сайта [тык](https://www.dmitrymakarov.ru/intro/recommender-17/) и моих личных идей 
+## Первая попытка разобрать в создании рекомендательных систем на датасете по фильмами их оценкам(см ноутбук), система создана на основе гайда с сайта [тык](https://www.dmitrymakarov.ru/intro/recommender-17/) и моих личных идей 
 
-## The first attempt to understand the creation of recommendation systems, the system is based on the guide from the site [tap](https://www.dmitrymakarov.ru/intro/recommender-17/) and my personal ideas
+The first attempt to understand the creation of recommendation systems on the dataset according to the films of their estimates (look notebook), the system is based on the guide from the site [tyk](https://www.dmitrymakarov.ru/intro/recommender-17/) and my personal ideas
