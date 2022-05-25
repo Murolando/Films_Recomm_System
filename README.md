@@ -7,4 +7,7 @@
 
 ## Первая попытка разобрать в создании рекомендательных систем на датасете по фильмами их оценкам(см ноутбук), система создана на основе гайда с сайта [тык](https://www.dmitrymakarov.ru/intro/recommender-17/) и моих личных идей 
 
+---
+
 ## The first attempt to understand the creation of recommendation systems on the dataset according to the films of their estimates (look notebook), the system is based on the guide from the site [tyk](https://www.dmitrymakarov.ru/intro/recommender-17/) and my personal ideas
+
